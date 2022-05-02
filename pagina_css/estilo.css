@@ -1,0 +1,28 @@
+.container {
+    background-color: aqua;
+    color: rgb(99, 0, 156);
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid blue;
+}
+.conteudo {
+    background-color: black;
+    width: 350px;
+    height: 451px;
+    margin-left: 110px;
+    margin-top: 20px;
+    float: left;
+}
+.paragrafo {
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: auto;
+    margin-right: 110px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 20px;
+    float: right;
+    border: 5px solid red;
+}
